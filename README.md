@@ -1,2 +1,3 @@
-# combinatorics-probability-and-other-math
-triangular series
+# Combinatorics Probability and Other Math
+
+- Triangular Series
