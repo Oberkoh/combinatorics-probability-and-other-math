@@ -1,3 +1,6 @@
-# Combinatorics Probability and Other Math
+# Combinatorics, Probability and Other Math
 
 - Triangular Series
+- Combinatorics
+- Probability
+- Other Math
